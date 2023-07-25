@@ -9,9 +9,7 @@ https://clipchamp.com/watch/idSREuFCt5s
 # Link to Ch19-travel
 https://ch19-travel.vercel.app/index.html
 
-#By
 
-Chada Bendriss
 
 <img width="960" alt="image" src="https://github.com/ChadaBendriss/ch19-travel/assets/113207156/eaa2342f-1fb3-4da9-b4b0-7f3644976ffa">
 <img width="956" alt="image" src="https://github.com/ChadaBendriss/ch19-travel/assets/113207156/c0f776fc-5c0a-468b-9704-1e98439ca3b3">
@@ -28,7 +26,9 @@ Chada Bendriss
 
 
 
+#By
 
+Chada Bendriss
 
 
 
