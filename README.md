@@ -4,7 +4,17 @@
 ### https://ch19-travel.vercel.app/index.html
 
 
+# Demo 1080p HD:
 
+### https://clipchamp.com/watch/idSREuFCt5s
+
+### Resources Used:
+Software: 
+- ClipChamp for seamless video editing.
+  
+Music:
+- "Thinking Bout You" - Ariana Grande Karaoke (【No Guide Melody】 Instrumental)
+https://www.youtube.com/watch?v=ZsXkfjSXXqs
 
 
 
