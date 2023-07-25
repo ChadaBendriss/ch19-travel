@@ -1,4 +1,7 @@
-This is a website about a travel company called "Ch19-Travel" providing travel and accommodation services to its customers.
+### This is a website about a travel company called "Ch19-Travel" providing travel and accommodation services to its customers:
+# Link to Ch19-travel
+
+### https://ch19-travel.vercel.app/index.html
 
 
 
@@ -13,10 +16,6 @@ Software:
 Music:
 - "Thinking Bout You" - Ariana Grande Karaoke (【No Guide Melody】 Instrumental)
 https://www.youtube.com/watch?v=ZsXkfjSXXqs
-
-# Link to Ch19-travel
-https://ch19-travel.vercel.app/index.html
-
 
 
 <img width="960" alt="image" src="https://github.com/ChadaBendriss/ch19-travel/assets/113207156/eaa2342f-1fb3-4da9-b4b0-7f3644976ffa">
